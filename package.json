@@ -1,0 +1,15 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.15.2",
+    "nodemon": "^1.18.6",
+    "sqlite3": "^4.0.3"
+  }
+}
